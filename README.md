@@ -15,4 +15,5 @@
 Qualquer dúvida entre em contato
 <a href="mailto:sousa.emanuele@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 
-![](https://tenor.com/pt-BR/view/roier-dance-minecraft-dancing-cubito-gif-12402480202493393375)
+![](https://tenor.com/pt-BR/view/roier-dance-minecraft-dancing-cubito-gif-12402480202493393375
+)
